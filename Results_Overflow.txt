@@ -1,0 +1,8 @@
+Resultados:
+
+Tipo de Dato---------- Overflow
+Char------------------ 2
+Short Int------------- 25
+Int------------------- 50
+Long Int-------------- 50
+Long Long Int--------- 100
