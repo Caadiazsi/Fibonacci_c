@@ -30,9 +30,9 @@ void Fibonacci_ShortInt(){
             cout<<"---------"<<endl;
             cout<<"Ingrese N, 0 para salir."<<endl;
             cin>>N;
-            short int one = 0;
-            short int two = 1;
-            short int Help = 0;
+            short one = 0;
+            short two = 1;
+            short Help = 0;
             if(N==2){
                 Help = 1;
             }else{
